@@ -29,6 +29,6 @@ func main() {
 	d.printSomething()
 
 	e := somedata{s: "i now am decorated... woohoo!"}
-	decorate(e.printSomething)()
+	decorate(e.printSomething)() // <-- notice the ending () .. this is where function args would be going (we'll be doing that later)
 
 }
