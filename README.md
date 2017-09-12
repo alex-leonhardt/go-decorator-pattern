@@ -9,6 +9,6 @@ pull requests are welcomed
 ## todo
 
 - a logger decorator
-
 - using a struct instead of plain functions
 - how does this all work when it's a interface
+- pass data to http handlefunc
