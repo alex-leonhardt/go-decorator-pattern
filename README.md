@@ -8,7 +8,7 @@ a playground for me (and maybe helpful for others?) to train the brain understan
 - another method decorator, but using a Func type, useful when the func signature is rather long, see [example4](example4/)
 - method decorator that takes arguments [example5](example5/)
 - return the result from the decorated function, instead of printing it [example6](example6/)
-- a logging decorator, see [example7][example7/])
+- a logging decorator, see [example7](example7/)
 
 ## contribute
 
