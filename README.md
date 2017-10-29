@@ -9,6 +9,7 @@ a playground for me (and maybe helpful for others?) to train the brain understan
 - method decorator that takes arguments [example5](example5/)
 - return the result from the decorated function, instead of printing it [example6](example6/)
 - a logging decorator, see [example7](example7/)
+- a nested decorator example, see [example8](example8/)
 
 ## contribute
 
