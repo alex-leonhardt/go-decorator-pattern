@@ -16,7 +16,5 @@ pull requests are welcomed
 
 ## todo
 
-- using a struct instead of plain functions
 - how does this all work when it's a interface
 - pass data to http handlefunc
-- nested decorators
