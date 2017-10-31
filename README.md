@@ -10,6 +10,7 @@ a playground for me (and maybe helpful for others?) to train the brain understan
 - return the result from the decorated function, instead of printing it [example6](example6/)
 - a logging decorator, see [example7](example7/)
 - a nested decorator example, see [example8](example8/)
+- passing data to a http handler is a little weird (to me), but a fully working example is here: [go-web-random](https://github.com/alex-leonhardt/go-web-random/blob/master/main.go#L25-L35)
 
 ## contribute
 
@@ -18,4 +19,3 @@ pull requests are welcomed
 ## todo
 
 - how does this all work when it's a interface
-- pass data to http handlefunc
